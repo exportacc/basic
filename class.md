@@ -4,7 +4,6 @@ title:      Class
 subtitle:   Class 學習手冊
 date:       2020-02-26
 author:     GEo
-header-img: img/post.jpg
 catalog: true
 tags:
     - Python
