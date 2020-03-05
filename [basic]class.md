@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      Class
-subtitle:   Class 學習手冊
+title:      [basic]class
+subtitle:   class 入門
 date:       2020-02-26
 author:     GEo
 catalog: true
 tags:
     - Python
+    - Class
 ---
 
 > 這是為我以後開發類別程式,為后面的人看懂我的程式結構以節省更多時間。
